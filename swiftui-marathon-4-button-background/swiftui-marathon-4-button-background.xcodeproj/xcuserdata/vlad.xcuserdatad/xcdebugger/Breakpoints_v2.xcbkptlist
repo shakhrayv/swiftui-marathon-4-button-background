@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0DBBE03B-B4BC-46D9-A241-0E2EB083468F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "820C8AF3-2293-4879-81F3-4EB52CC29F9A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftui-marathon-4-button-background/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "820C8AF3-2293-4879-81F3-4EB52CC29F9A - 58b6e5a1ecbf155a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in swiftui_marathon_4_button_background.ContentView.body.getter : some"
+                  moduleName = "swiftui-marathon-4-button-background"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vlad/Documents/swiftui-marathon-4-button-background/swiftui-marathon-4-button-background/swiftui-marathon-4-button-background/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "820C8AF3-2293-4879-81F3-4EB52CC29F9A - 5a7c3fd3653e2336"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; () in swiftui_marathon_4_button_background.ContentView.body.getter : some"
+                  moduleName = "swiftui-marathon-4-button-background"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vlad/Documents/swiftui-marathon-4-button-background/swiftui-marathon-4-button-background/swiftui-marathon-4-button-background/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
